@@ -1,0 +1,22 @@
+{
+  "name": "inovonics-jwt",
+  "version": "1.0.0",
+  "author": "",
+  "copyright": "",
+  "scripts": {
+    "dev": "zuplo dev",
+    "build": "zuplo build",
+    "test": "zuplo test",
+    "postinstall": "husky install"
+  },
+  "dependencies": {
+    "@zuplo/core": "^3.593.0",
+    "@zuplo/runtime": "^3.593.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.3.6",
+    "husky": "^7.0.4"
+  }
+}

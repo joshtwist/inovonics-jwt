@@ -1,0 +1,8 @@
+{
+  "description": "A simple POST to the initial route",
+  "pathname": "/user",
+  "method": "GET",
+  "headers": {
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJmb28iLCJhdWQiOiJiYXIiLCJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.67ad_rl499hS2InE9UMAE_6NbcTFJE-JXVzx4YFOoaM"
+  }
+}

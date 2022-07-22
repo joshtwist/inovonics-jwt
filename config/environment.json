@@ -1,0 +1,13 @@
+{
+  "environmentVariables": {
+    "AUTH_ISSUER": {
+      "variableType": "config"
+    },
+    "AUTH_AUDIENCE": {
+      "variableType": "config"
+    },
+    "AUTH_KEY": {
+      "variableType": "secret"
+    }
+  }
+}
