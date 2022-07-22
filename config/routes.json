@@ -76,11 +76,9 @@
       "version": "none",
       "corsPolicy": "none",
       "handler": {
-        "export": "urlRewriteHandler",
-        "module": "$import(@zuplo/runtime)",
-        "options": {
-          "rewritePattern": "https://welcome.zuplo.io/"
-        }
+        "export": "default",
+        "module": "$import(./modules/echo-user)",
+        "options": {}
       },
       "policies": {
         "inbound": [

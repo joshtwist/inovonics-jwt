@@ -1,8 +1,8 @@
 {
   "description": "A simple POST to the initial route",
-  "pathname": "/cache-auth",
+  "pathname": "/cache-token",
   "method": "GET",
   "headers": {
-    "token": "1"
+    "token": "3535"
   }
 }
